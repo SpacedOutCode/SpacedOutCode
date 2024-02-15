@@ -58,7 +58,7 @@ I’m a 16-year-old hobby programmer, UI/UX Designer, and high school student. I
                     </a>
 </p>
 
-### >My GitHub Stats
+### My GitHub Stats
 
 <a href="http://www.github.com/spacedoutcode" align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=spacedoutcode&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=151c26&hide_border=true&show_icons=true" alt="spacedoutcode's GitHub stats" />
