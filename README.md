@@ -8,7 +8,7 @@ I’m a 16-year-old hobby programmer, UI/UX Designer, and high school student. I
 
 *   🌍  I'm based in The U.S.
 *   🖥️  See my portfolio at [Bento.me](http://bento.me/spacedout)
-*   🚀  I'm currently working on [DreamChat](http://spaced.gg/chat)
+*   🚀  I'm currently working on [OxyGen2](https://github.com/SpacedOutCode/OxyGen2)
 *   🧠  I'm learning node.js
 *   🤝  I'm open to collaborating on Frontend and UI/UX projects
 
