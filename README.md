@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and UI/UX Designer
 --------------------------------
 
-I’m a 16-year-old hobby programmer, UI/UX Designer, and high school student. I love a good challenge and try to push my comfort zone daily with new things. I enjoy the great outdoors and always love to get out and about. I also enjoy drone flying, cinematography, photography, and tinkering with electronics to name a few.
+I’m a 17-year-old hobby programmer, UI/UX Designer, and high school student. I love a good challenge and try to push my comfort zone daily with new things. I enjoy the great outdoors and always love to get out and about. I also enjoy drone flying, cinematography, photography, and tinkering with electronics to name a few.
 
 *   🌍  I'm based in The U.S.
 *   🖥️  See my portfolio at [Bento.me](http://bento.me/spacedout)
