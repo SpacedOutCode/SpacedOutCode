@@ -32,7 +32,7 @@ I’m a 17-year-old hobby programmer, UI/UX Designer, and high school Senior. I 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://discord.com/users/spaced.out.code" target="_blank" rel="noreferrer">
+                      <a href="https://discord.com/users/spaced.gg" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
@@ -53,23 +53,4 @@ I’m a 17-year-old hobby programmer, UI/UX Designer, and high school Senior. I 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.twitch.tv/spaacedd" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
-                    </picture>
-                    </a>
 </p>
-
-### My GitHub Stats
-
-<a href="http://www.github.com/spacedoutcode" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=spacedoutcode&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=151c26&hide_border=true&show_icons=true" alt="spacedoutcode's GitHub stats" />
-</a>
-<a href="http://www.github.com/spacedoutcode" align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spacedoutcode&stroke=ffffff&background=151c26&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-<a href="https://github.com/spacedoutcode" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacedoutcode&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=151c26&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
