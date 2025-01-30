@@ -8,7 +8,7 @@ I’m a 17-year-old hobby programmer, UI/UX Designer, and high school Senior. I 
 
 *   🌍  I'm based in The U.S.
 *   🖥️  See my portfolio at [Bento.me](http://bento.me/spacedout)
-*   🚀  I'm currently working on [OxyGen2](https://github.com/SpacedOutCode/RuneBot)
+*   🚀  I'm currently working on [RuneBot](https://github.com/SpacedOutCode/RuneBot)
 *   🤝  I'm open to collaborating on Frontend, Backend, and UI/UX projects
 
 ### Skills 
